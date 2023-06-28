@@ -9,6 +9,10 @@ Circuit :
 
 ![image](https://github.com/DJOPRO-STUDIO/ArduConsole/assets/128752386/23b7c6c8-20b6-4fb5-8a16-7265e6b96562)
 
+# Buttons
+- Red Button = Reset
+- 
+
 
 - For more about the project, please checkout this wokwi Website
   https://wokwi.com/projects/363837085394089985

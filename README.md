@@ -11,8 +11,9 @@ Circuit :
 
 # Buttons
 - Red Button = Reset
-- 
+- Green Button = A
+- Blue Button = B
 
 
-- For more about the project, please checkout this wokwi Website
+ For more about the project, please checkout this wokwi Website
   https://wokwi.com/projects/363837085394089985

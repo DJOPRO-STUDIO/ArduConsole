@@ -7,7 +7,8 @@ ArduConsole is a Portable Console creat with an Arduino UNO
 
 Circuit :
 
-![image](https://github.com/DJOPRO-STUDIO/ArduConsole/assets/128752386/234db6e3-4d09-4997-a71d-3aaeafe7a73e)
+![image](https://github.com/DJOPRO-STUDIO/ArduConsole/assets/128752386/23b7c6c8-20b6-4fb5-8a16-7265e6b96562)
+
 
 - For more about the project, please checkout this wokwi Website
   https://wokwi.com/projects/363837085394089985
